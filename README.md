@@ -1,2 +1,2 @@
 # FreeCodeCampReact
-1:45:00. dakikadayım 
+02.07:00. dakikadayım 
