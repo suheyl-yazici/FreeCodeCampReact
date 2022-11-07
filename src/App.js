@@ -136,7 +136,7 @@ function App() {
       />
       <Routes>
         <Route
-          path="/"
+          path="/home"
           element={
             <Employees
               employees={employees}
