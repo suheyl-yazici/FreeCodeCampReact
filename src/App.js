@@ -136,7 +136,7 @@ function App() {
       />
       <Routes>
         <Route
-          path="/home"
+          index
           element={
             <Employees
               employees={employees}
