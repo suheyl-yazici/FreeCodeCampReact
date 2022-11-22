@@ -136,7 +136,7 @@ function App() {
       />
       <Routes>
         <Route
-          index
+          path="/react_team_member_allocation"
           element={
             <Employees
               employees={employees}
@@ -147,7 +147,7 @@ function App() {
           }
         ></Route>
         <Route
-          path="/GroupedTeamMembers"
+          path="/react_team_member_allocation/GroupedTeamMembers"
           element={
             <GroupedTeamMembers
               employees={employees}
